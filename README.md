@@ -7,5 +7,6 @@ Steps to download:
 2. Rename the file "palki-wordpress" to "wordpress"
 3. Run the XAMPP Apache server and MySQL
 4. Type "localhost/wordpress/wp-admin" in a browser
-5. Enter username root and 
-Copy the files to the htdocs directory and run XAMPP. There is a page named "HOME". That is the original desing page. 
+5. Enter username -> root and password -> C!s5dh$r!UzYKDng0e
+6. After landing on the admin page, go to pages in the left menu bar.
+7. There is a page named "HOME". Edit the page using elementor.
